@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Sergio Suja Garrido | Blog
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
@@ -34,9 +34,9 @@ kramdown:
 #
 owner:
   name: Sergio Suja Garrido
-  avatar: avatar.jpg
+  avatar: avatar.png
   job: "Mid-Senior Software Engineer"
-  bio: "Engineer eager to learn and enjoy while programming"
+  bio: "C++ - Python"
   email:
   disqus-shortname:
   twitter: #username
