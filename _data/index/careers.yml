@@ -1,16 +1,25 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Seddi Labs Spain
+  link: http://seddi.com/
+  date: Oct 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Mid-Senior Software Engineer
+  icon: desilico_icon.jpg
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Medlumics
+  link: https://www.medlumics.com/es/
+  date: May 2014 - Aug 2017
+  job: Junior Software Engineer
+  icon: medlumics_icon.jpg
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Thales Spain
+  link: https://www.thalesgroup.com/es
+  date: Mar 2013 - Mar 2014
+  job: Software Developer (Internship)
+  icon: thales_icon.jpg
+
+- name: VPU-Lab EPS UAM
+  link: http://www-vpu.eps.uam.es/webvpu/en/
+  date: Oct 2011 - Dec 2012
+  job: Research Assistant (Diploma Thesis)
+  icon: vpulab_icon.jpg

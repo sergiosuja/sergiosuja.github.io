@@ -1,8 +1,20 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: MSc in Computer Graphics, Videogames and Virtual Reality
+  university: Universidad Rey Juan Carlos (URJC)
+  link: http://www.mastergraficos.com/
+  date: 2017 - 2019
+  descr: (expected graduation in 2019)
+  icon: urjc_icon.jpg
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: Posgraduate Studies in Citius Program
+  university: Universidad Autónoma de Madrid (UAM)
+  link: https://www.citius-uam.org/
+  date: 2013 - 2014
+  descr: (professional initiation for university graduates)
+  icon: uam_icon.jpg
+
+- name: MSc in Telecommunications Engineering
+  university: Universidad Autónoma de Madrid (UAM)
+  link: http://www.uam.es/ss/Satellite/EscuelaPolitecnica/es/home.htm
+  date: 2006 - 2012
+  descr: (BSc+MSc - 315 ECTS)
+  icon: uam_icon.jpg
